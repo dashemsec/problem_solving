@@ -1,1 +1,6 @@
-# problem_solving
+# data_structure
+
+Fibonacci Sequence:
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
+
+Day0, Day2, Day5, Day9, Day14, Day21, Day34, Day55, Day89, ...
